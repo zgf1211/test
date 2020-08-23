@@ -21,6 +21,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class controller {
     @RequestMapping("/1")
     public String getString() {
-        return  "hello word!1111";
+        return  "hello word!!!!";
     }
 }
